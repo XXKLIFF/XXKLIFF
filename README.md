@@ -1,4 +1,4 @@
-<h1></h1>
+<h1>Welcome there!</h1>
 
 
 <h3>🔧 I use</h3>
@@ -10,7 +10,7 @@
 
 ------------
 
-<h3>🎓 I'm studying</h3>
+<h3>🎓 I'm learning</h3>
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
